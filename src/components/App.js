@@ -1,7 +1,6 @@
 // create your App component here
 
 import React, { useState, useEffect } from "react";
-import "../";
 
 function App() {
   const [IsLoading, setIsLoading] = useState(true);
