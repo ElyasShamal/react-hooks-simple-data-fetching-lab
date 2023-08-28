@@ -7,3 +7,9 @@ body {
 img {
   max-width: 100%;
 }
+
+.app {
+  text-align: center;
+  margin: auto;
+  top: 50%;
+}
